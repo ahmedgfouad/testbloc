@@ -93,6 +93,8 @@ flutter:
   # see https://flutter.dev/custom-fonts/#from-packages
   assets:
     - image/
+    - image/fav.jpg
+    - image/fav2.jpg
 
 
 
